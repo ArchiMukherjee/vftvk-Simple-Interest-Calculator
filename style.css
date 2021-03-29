@@ -1,4 +1,26 @@
-body {background-color:tan;}
-h1{color:green;}
+body{background-color:black;font:arial white;}
+h1{color:grey;font:verdana}
 
+.maindiv{
+    background-color:white;
+    font:black;
+    margin:auto;
+    width:400px;
+    padding:20px;
+    border-radius:25px;
+    
+}
+.div{
+    padding:20px;
+}
+.div input{
+    margin-left:60px;
+}
+#principal{
+    margin-left:90px;
+}
 
+footer{
+    font:20px;
+    
+}
